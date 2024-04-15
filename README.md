@@ -20,5 +20,5 @@ This Scrapy spider scrapes job listings from Indeed.com for Python developer pos
 
 2. Run the scrapy spider :
     ```bash
-    scrapy crawl job_listing -o job_listings.json
+    scrapy crawl scrap_jobs.py -o job_listings.json
  ```
