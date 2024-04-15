@@ -8,7 +8,7 @@ This Scrapy spider scrapes job listings from Indeed.com for Python developer pos
 1. Clone this repository:
    ```bash
    git clone https://github.com/MuhabEssam/ScrapJobs
-   
+   ```
 2. Install the required Python packages:
    ```bash
   pip install scrapy
