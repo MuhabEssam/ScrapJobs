@@ -1,4 +1,3 @@
-
 # Job Listing Crawler
 
 This Scrapy spider scrapes job listings from Indeed.com for Python developer positions.
